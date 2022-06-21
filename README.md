@@ -9,3 +9,6 @@ Running a line listener in a separate thread, in order to be able to listen whet
 - play/pause
 - previous
 - next
+
+# Disclaimer!
+No naming conventions were used in the production of this code :D, this was my first ever Java program
