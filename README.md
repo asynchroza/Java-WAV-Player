@@ -11,4 +11,4 @@ Running a line listener in a separate thread, in order to be able to listen whet
 - next
 
 # Disclaimer!
-Neither clear naming conventions, nor any consious OOP paradigms were used in the production of this code (spaghetti code) :D. This was my first ever Java program
+Neither clear naming conventions, nor any consious OOP paradigms were applied in the production of this code (spaghetti code) :D. This was my first ever Java program
